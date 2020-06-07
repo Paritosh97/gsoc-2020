@@ -1,17 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+title:          GSoC-2020
+description:    "Blog for Google Summer of Code 2020"
+baseurl:        "/gsoc-2020"
+url:            "https://paritosh97.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Paritosh Sharma
+  url:          https://paritosh97.github.io
+  email:        contact@iamparitoshsharma.me
 
 # Build settings
 markdown:       kramdown
