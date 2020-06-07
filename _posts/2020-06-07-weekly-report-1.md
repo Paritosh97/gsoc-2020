@@ -1,3 +1,4 @@
+
 # GSoC Week 1 - Qt3D based backend for KStars
 
 
@@ -32,16 +33,14 @@ My priorities for the next week include.
 
 - Instance rendering for millions of stars displayed by KStars.
 
-- Dig deep into projection modes and shader coding based on the pre existing Projector class in KStars.
+- Dig deep into projection modes and shader coding based on the pre-existing Projector class in KStars.
 
 - Transformation updates based on signals instead of frame by frame.
+
+## Demo
+![Skybox and Sun](./../assets/posts/images/week-1-1.gif)
 
 
 ## The Code
 
  - [My fork for KStars](https://invent.kde.org/paritosh/kstars)
-
-## Useful Links
-
- - [GSoC Proposal](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/5468988994224128_1522087817_Technical_Proposal.pdf?Expires=1533768052&GoogleAccessId=summerofcode-prod@appspot.gserviceaccount.com&Signature=pdppYy8Nvq5GRZXz%2byB6AJFQ6r1Ui%2bsGZN//SzNny0o76T1QnAfIrcdp8yFmXw5gY2l21UtvH88vA%2bRwwDxTPtEJQIg0F2vqY6r%2bMkbFEv9g/d8XCNCAe6MHQZGhHnhlJZ3evS7ZwJ9eITJeq3xfD84xvMRVp1MEvS1SV5fOY5ZUnXjCS6/lRJXFTnNhWZK4uuLCYInrbfqJwxRGJddn6zO6D5w5txnZm%2bTj4hkNxrdc05ioy%2brG2993/AbotKM%2bnjng4TlOEAiLeSUEFd2Ukg0r833qpYfLOoCrbQ/uCfOaIICKdfl9wGBzEp55Vn5BW%2bgOoVDYmW8mugJeD0OqTg==)
- - [Progress Report #1](https://godotengine.org/article/gsoc-2018-progress-report-1#gearvr-daydream)
