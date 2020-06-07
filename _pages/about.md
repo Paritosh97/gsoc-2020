@@ -21,4 +21,4 @@ deep-sky objects.
 
 ## Useful Links
 
- - [Proposal](./proposal.pdf)
+ - [Proposal](./../assets/docs/proposal.pdf)
