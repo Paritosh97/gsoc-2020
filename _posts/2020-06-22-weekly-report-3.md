@@ -30,9 +30,7 @@ My priorities for the next week include.
 - Display of grid lines and basic star catalog using SkymapComposite.
 
 ## Demo
-![Spheres using Lambert Projection](./../assets/posts/images/week-3-1.png)
-![Spheres using Azimuthal Projection](./../assets/posts/images/week-3-2.png)
-![Spheres using Stereographic Projection](./../assets/posts/images/week-3-3.png)
+![Spheres using Lambert Projection](./../assets/posts/images/week-3-1.png) ![Spheres using Azimuthal Projection](./../assets/posts/images/week-3-2.png) ![Spheres using Stereographic Projection](./../assets/posts/images/week-3-3.png)
 
 
 ## The Code
