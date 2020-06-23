@@ -16,7 +16,7 @@ In the third week of GSoC, I worked on defining a coordinate system which works 
 
 - Integration issues with the original SkyPainter API written to support multiple backends - Had to prototype outside of KStars.
 
-- Llack of C++ resources for Qt3D.
+- Lack of C++ resources for Qt3D.
 
 - Switching SkyQPainter's 2D projector class to GLSL.
 
@@ -25,7 +25,7 @@ In the third week of GSoC, I worked on defining a coordinate system which works 
 
 My priorities for the next week include.
 
-- Integrating existing and KStars backend.
+- Integrating written shaders and KStars backend.
 
 - Display of grid lines and basic star catalog using SkymapComposite.
 
