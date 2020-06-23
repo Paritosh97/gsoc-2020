@@ -38,7 +38,7 @@ My priorities for the next week include.
 - Updates using SkyComposite.
 
 ## Demo
-![Grid System](./../assets/posts/images/week-2-2.gif)
+![Grid System](./../assets/posts/images/week-2-1.gif)
 
 
 ## The Code
