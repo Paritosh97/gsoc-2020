@@ -4,7 +4,7 @@ In the seventh week of GSoC, I worked on adding all existing init and update cal
 
 ## What's done this week
 
-- Init calls for skycomponent derive classes which help setup the Qt3D scenegraph
+- Init calls for skycomponent derived classes which help setup the Qt3D scenegraph
 
 - Update calls which adjust shader uniforms an enable update and mouse events.
 
